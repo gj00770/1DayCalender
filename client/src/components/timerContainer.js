@@ -4,14 +4,8 @@ import Timer from './timer'
     return (
      <div>
          <Timer/>
-         <Timer/>
-         <Timer/>
-         <Timer/>
-         <Timer/>
-         <Timer/>
-         <Timer/>
-         <Timer/>
-         <Timer/>
+  
+        
          
      </div>
     )
